@@ -8,3 +8,5 @@ Homework 9 for MAIL.RU GROUP ML course --- searching similar docs. There are 3 a
 
 3) word2vec algo
     It uses documents semantics to cunstruct a basis for words. Every word not from basis is constructed with those who is from basis. So we can compute a mean vector of document words and find the cosines between docs.
+
+Dataset with documents you can find here: https://cloud.mail.ru/public/3cAG/2CLCW98Pr
